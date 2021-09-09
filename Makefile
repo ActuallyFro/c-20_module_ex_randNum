@@ -1,5 +1,5 @@
-name=simple_module
-module-name=func
+name=rand64Int
+module-name=pp_RandomNum
 
 all: fin
 
